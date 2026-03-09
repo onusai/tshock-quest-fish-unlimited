@@ -3,4 +3,4 @@
 
 ***
 
-[Download QuestFishUnlimited.dll](https://github.com/onusai/tshock-quest-fish-unlimited/raw/main/bin/Debug/net6.0/QuestFishUnlimited.dll)
+[Download QuestFishUnlimited.dll](https://github.com/onusai/tshock-quest-fish-unlimited/raw/main/bin/Debug/net9.0/QuestFishUnlimited.dll)
